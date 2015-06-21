@@ -3,6 +3,7 @@ title: "How it works"
 bg: blue
 color: white
 style: left
+fa-icon: cogs
 ---
 
 # How it works
