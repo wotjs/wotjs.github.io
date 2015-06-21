@@ -6,4 +6,4 @@ style: center
 ---
 
 # What is WoT.JS?
-WoT.JS is a framework provides a fast and easy way to help Web developers build WoT(IoT) applications.
+WoT.JS is a library provides a fast and easy way to build IoT([Internet of Things](https://en.wikipedia.org/wiki/Internet_of_Things)) applications for hackers.
