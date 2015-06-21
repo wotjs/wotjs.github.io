@@ -2,7 +2,7 @@
 title: "WoT.JS"
 bg: white
 color: black
-style: center
+style: left
 ---
 
 # What is WoT.JS?
