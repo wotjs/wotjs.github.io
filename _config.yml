@@ -17,8 +17,8 @@ highlighter: pygments
 ### content configuration ###
 title:       "WoT.JS - Build IoT applications fast and easily"
 keywords:    "wot, iot, web, javascript"
-description: "A website to help developers learn and use WoT.JS."
-source_link: "https://github.com/evanxd/evanxd.github.io"
+description: "A library helps developers build IoT applications fast and easily."
+source_link: "https://github.com/wotjs/wotjs.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
